@@ -1,0 +1,2 @@
+# RichTapCoreForAndroidT
+RichTap core algorithms
